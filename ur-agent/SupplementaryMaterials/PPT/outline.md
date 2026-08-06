@@ -103,4 +103,4 @@ Title: From chatbot to private resource operating system
 - Source: https://github.com/qiancy/ur-agent
 - Production demo: https://rc-e2369faa1fa45132.radeon.firstdg.ai/
 - License: MIT
-- Demo video: https://www.bilibili.com/video/av117045995833136
+- Demo video: https://www.bilibili.com/video/BV1UUun6YEg5
