@@ -12,7 +12,7 @@ This project is submitted to **2026 AMD AI DevMaster Hackathon - Track 2: Develo
 | Applicant | qiancy |
 | AMD Developer Program No. | 00000657 |
 | Source repository | https://github.com/qiancy/ur-agent |
-| Production demo website | https://rc-f3d13324264295f3.radeon.firstdg.ai |
+| Production demo website | https://rc-e2369faa1fa45132.radeon.firstdg.ai |
 | Local demo service | http://127.0.0.1:5173 |
 | License | MIT |
 | Track | Track 2: Development & Local Deployment of Private AI Agents |
@@ -167,7 +167,7 @@ Reviewers can reproduce the project with the following flow:
 The current production demo website is:
 
 ```text
-https://rc-f3d13324264295f3.radeon.firstdg.ai
+https://rc-e2369faa1fa45132.radeon.firstdg.ai
 ```
 
 The local frontend service behind the tunnel is:
@@ -267,7 +267,7 @@ The demo video should be 3 to 5 minutes:
 ## 9. Submission material references
 
 - Source repository: https://github.com/qiancy/ur-agent
-- Production demo website: https://rc-f3d13324264295f3.radeon.firstdg.ai
+- Production demo website: https://rc-e2369faa1fa45132.radeon.firstdg.ai
 - Submission checklist: `submission-checklist.md`
 - Demo storyboard: `DemoVideo/storyboard.md`
 - PPT outline: `SupplementaryMaterials/PPT/outline.md`

@@ -12,7 +12,7 @@
 | AMD Developer Program No. | 00000657 |
 | GitHub | https://github.com/qiancy/ur-agent |
 | 源码 License | MIT |
-| 生产环境 Demo 网站 | https://rc-f3d13324264295f3.radeon.firstdg.ai |
+| 生产环境 Demo 网站 | https://rc-e2369faa1fa45132.radeon.firstdg.ai |
 | 本地服务 | http://127.0.0.1:5173 |
 | 提交方式 | fork `AMD-DEV-CONTEST/Radeon-hackathon-2026-07`，在 fork 中提交材料并创建 Pull Request |
 | 建议 PR 标题 | `Track 2, qiancy, UR-Agent (Uni-Resource Agent)` |
@@ -87,7 +87,7 @@ ur-agent/
 - [ ] 比赛 fork 中包含项目说明文档，最终版建议为英文或英文 PDF。
 - [ ] 比赛 fork 中包含 PPT 或海报，建议导出 PDF。
 - [ ] 比赛 fork 中包含演示视频链接，链接无需登录即可访问。
-- [ ] 比赛 fork 中包含生产环境 Demo 网站：`https://rc-f3d13324264295f3.radeon.firstdg.ai`。
+- [ ] 比赛 fork 中包含生产环境 Demo 网站：`https://rc-e2369faa1fa45132.radeon.firstdg.ai`。
 - [ ] 视频中不出现私钥、token、数据库密码、内网账号等敏感信息。
 - [ ] 视频中展示 AMD Radeon GPU / ROCm 运行证据。
 - [ ] 视频中展示至少两个赛道要求能力，建议展示 RAG、工具调用、多步骤规划、记忆、权限隔离。

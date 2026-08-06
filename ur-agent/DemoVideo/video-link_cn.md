@@ -9,7 +9,7 @@
 | 推荐时长 | 3 到 5 分钟 |
 | 录制方式 | 腾讯会议录屏 |
 | 配音方式 | 使用 `storyboard_cn.md` 中的配音稿，由豆包输出语音 |
-| 生产环境 Demo 网站 | https://rc-f3d13324264295f3.radeon.firstdg.ai |
+| 生产环境 Demo 网站 | https://rc-e2369faa1fa45132.radeon.firstdg.ai |
 | 本地 Demo 服务 | http://127.0.0.1:5173 |
 | 视频链接 | 待填 |
 | 备用下载链接 | 待填 |

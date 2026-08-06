@@ -3,7 +3,7 @@
 > **Track 2 — Development & Local Deployment of Private AI Agents**
 > **Applicant:** qiancy (AMD Developer Program No. 00000657)
 > **GitHub:** https://github.com/qiancy/ur-agent
-> **Production demo:** https://rc-f3d13324264295f3.radeon.firstdg.ai
+> **Production demo:** https://rc-e2369faa1fa45132.radeon.firstdg.ai
 > **Local demo service:** http://127.0.0.1:5173
 > **Application name:** UR-Agent (Uni-Resource Agent)
 > **Tagline:** *One AI. All Your Worlds.* / *Everything is a Resource.*
@@ -41,7 +41,7 @@ Track 2 requires at least 2 of 5 capabilities (more = bonus). UR-Agent covers **
 ## 3. Quick Navigation
 
 - **Want to run it?** → https://github.com/qiancy/ur-agent README → `scripts/setup_env.sh` → `scripts/unires_agent.sh`
-- **Want to try the live demo?** → https://rc-f3d13324264295f3.radeon.firstdg.ai
+- **Want to try the live demo?** → https://rc-e2369faa1fa45132.radeon.firstdg.ai
 - **Want to see the spec?** → [`ProjectSpecificationDocument/project-specification.md`](./ProjectSpecificationDocument/project-specification.md)
 - **Want to follow the demo?** → [`DemoVideo/storyboard.md`](./DemoVideo/storyboard.md)
 - **Want to flip the slides?** → [`SupplementaryMaterials/PPT/outline.md`](./SupplementaryMaterials/PPT/outline.md)

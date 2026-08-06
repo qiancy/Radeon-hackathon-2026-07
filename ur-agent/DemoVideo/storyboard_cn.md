@@ -77,4 +77,4 @@ UR-Agent 的核心理念是 Everything is a Resource。它把个人、家庭、�
 
 在性能方面，项目使用 GGUF 量化模型、ROCm GPU offload、上下文裁剪、向量索引和工具返回字段控制，降低显存占用并提升响应速度。最终实测的 GPU 型号、ROCm 版本、tokens per second 和端到端耗时会记录在提交材料中。
 
-UR-Agent 的生产环境 Demo 网站是 https://rc-f3d13324264295f3.radeon.firstdg.ai。源码采用 MIT License，后续会提交到 GitHub 仓库 https://github.com/qiancy/ur-agent。谢谢观看。
+UR-Agent 的生产环境 Demo 网站是 https://rc-e2369faa1fa45132.radeon.firstdg.ai。源码采用 MIT License，后续会提交到 GitHub 仓库 https://github.com/qiancy/ur-agent。谢谢观看。

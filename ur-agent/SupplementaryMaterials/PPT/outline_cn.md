@@ -10,7 +10,7 @@ One AI. All Your Worlds.
 - Track 2: 私有 AI Agent 开发与本地部署
 - qiancy, AMD Developer Program No. 00000657
 - GitHub: https://github.com/qiancy/ur-agent
-- Demo: https://rc-f3d13324264295f3.radeon.firstdg.ai
+- Demo: https://rc-e2369faa1fa45132.radeon.firstdg.ai
 - License: MIT
 
 ## Slide 2: 问题与机会
@@ -82,7 +82,7 @@ One AI. All Your Worlds.
 - 执行资源/财务/Seller 复合任务。
 - 连续追问，展示多轮记忆。
 - 切换空间，展示权限隔离。
-- 展示生产 Demo 网站：https://rc-f3d13324264295f3.radeon.firstdg.ai
+- 展示生产 Demo 网站：https://rc-e2369faa1fa45132.radeon.firstdg.ai
 
 ## Slide 8: 价值与下一步
 
@@ -101,6 +101,6 @@ One AI. All Your Worlds.
 - 参赛者：qiancy
 - AMD Developer Program No.：00000657
 - 源码：https://github.com/qiancy/ur-agent
-- Demo：https://rc-f3d13324264295f3.radeon.firstdg.ai
+- Demo：https://rc-e2369faa1fa45132.radeon.firstdg.ai
 - License：MIT
 - 演示视频：提交前填入链接

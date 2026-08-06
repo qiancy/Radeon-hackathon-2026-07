@@ -7,10 +7,9 @@
 | Recommended duration | 3 to 5 minutes |
 | Recording method | Tencent Meeting screen recording |
 | Voice-over method | Use `storyboard.md` as the narration script; TTS can be generated separately |
-| Production demo website | https://rc-f3d13324264295f3.radeon.firstdg.ai |
+| Production demo website | https://rc-e2369faa1fa45132.radeon.firstdg.ai |
 | Local demo service | http://127.0.0.1:5173 |
-| Video link | TBD |
-| Backup download link | TBD |
+| Video link | https://www.bilibili.com/video/av117045995833136 |
 
 ## Pre-submission checks
 

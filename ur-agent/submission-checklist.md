@@ -10,7 +10,7 @@
 | AMD Developer Program No. | 00000657 |
 | GitHub | https://github.com/qiancy/ur-agent |
 | Source license | MIT |
-| Production demo website | https://rc-f3d13324264295f3.radeon.firstdg.ai |
+| Production demo website | https://rc-e2369faa1fa45132.radeon.firstdg.ai |
 | Local demo service | http://127.0.0.1:5173 |
 | Submission method | Fork `AMD-DEV-CONTEST/Radeon-hackathon-2026-07`, add the submission materials, and open a Pull Request |
 | Suggested PR title | `Track 2, qiancy, UR-Agent (Uni-Resource Agent)` |
@@ -83,7 +83,7 @@ ur-agent/
 - [ ] The contest fork includes the English Project Specification Document.
 - [ ] The contest fork includes a PPT or poster, preferably exported as PDF.
 - [ ] The contest fork includes an accessible demo video link.
-- [ ] The demo website link is included: `https://rc-f3d13324264295f3.radeon.firstdg.ai`.
+- [ ] The demo website link is included: `https://rc-e2369faa1fa45132.radeon.firstdg.ai`.
 - [ ] The video does not expose private keys, tokens, database passwords, internal accounts, or sensitive data.
 - [ ] The video shows AMD Radeon GPU / ROCm execution evidence.
 - [ ] The video shows at least two Track 2 capabilities; recommended: RAG, tool calling, multi-step planning, memory, and permission isolation.

@@ -10,7 +10,7 @@ One AI. All Your Worlds.
 - Track 2: Development & Local Deployment of Private AI Agents
 - qiancy, AMD Developer Program No. 00000657
 - GitHub: https://github.com/qiancy/ur-agent
-- Production demo: https://rc-f3d13324264295f3.radeon.firstdg.ai
+- Production demo: https://rc-e2369faa1fa45132.radeon.firstdg.ai
 - License: MIT
 
 ## Slide 2: Problem and opportunity
@@ -82,7 +82,7 @@ Title: A usable private Agent in 3 minutes
 - Execute a compound resource, finance, or Seller task.
 - Ask a follow-up question to show multi-turn memory.
 - Switch spaces to show permission isolation.
-- Show the production demo website: https://rc-f3d13324264295f3.radeon.firstdg.ai
+- Show the production demo website: https://rc-e2369faa1fa45132.radeon.firstdg.ai
 
 ## Slide 8: Value and next steps
 
@@ -101,6 +101,6 @@ Title: From chatbot to private resource operating system
 - Applicant: qiancy
 - AMD Developer Program No.: 00000657
 - Source: https://github.com/qiancy/ur-agent
-- Production demo: https://rc-f3d13324264295f3.radeon.firstdg.ai
+- Production demo: https://rc-e2369faa1fa45132.radeon.firstdg.ai/
 - License: MIT
-- Demo video: TBD
+- Demo video: https://www.bilibili.com/video/av117045995833136

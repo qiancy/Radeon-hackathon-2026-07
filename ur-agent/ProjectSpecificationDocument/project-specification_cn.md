@@ -14,7 +14,7 @@
 | 参赛者 | qiancy |
 | AMD Developer Program No. | 00000657 |
 | 源码仓库 | https://github.com/qiancy/ur-agent |
-| 生产环境 Demo 网站 | https://rc-f3d13324264295f3.radeon.firstdg.ai |
+| 生产环境 Demo 网站 | https://rc-e2369faa1fa45132.radeon.firstdg.ai |
 | 本地 Demo 服务 | http://127.0.0.1:5173 |
 | License | MIT |
 | 赛道 | Track 2: 私有 AI Agent 开发与本地部署 |
@@ -156,7 +156,7 @@ FastAPI 后端将该本地模型服务视为标准 LLM endpoint，Agent 代码�
 当前生产环境 Demo 网站：
 
 ```text
-https://rc-f3d13324264295f3.radeon.firstdg.ai
+https://rc-e2369faa1fa45132.radeon.firstdg.ai
 ```
 
 本地前端服务：
@@ -270,7 +270,7 @@ UR-Agent 的优化目标是让私有 Agent 在本地 GPU 上保持可用响应�
 
 - 源码仓库：https://github.com/qiancy/ur-agent
 - 提交清单：`submission-checklist_cn.md`
-- 生产环境 Demo：https://rc-f3d13324264295f3.radeon.firstdg.ai
+- 生产环境 Demo：https://rc-e2369faa1fa45132.radeon.firstdg.ai
 - 演示视频脚本：`DemoVideo/storyboard_cn.md`
 - PPT 大纲：`SupplementaryMaterials/PPT/outline_cn.md`
 - License：MIT
